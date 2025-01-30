@@ -2,6 +2,12 @@
 Hey there, I'm Ilias!
 </h1>
 
+<h3>
+<span style="color:turquoise">Programmer</span>, 
+<span style="color:turquoise">Cybersecurity Expert</span>, 
+<span style="color:turquoise">Tech Nerd</span>
+</h3>
+
 <!--
 **McBeaney/McBeaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
