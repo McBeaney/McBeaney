@@ -1,11 +1,10 @@
 <h1>
-Hey there, I'm Ilias!
+Hey there, I'm Ilias!<br>
+Programmer, Cybersecurity Expert, & Tech Conniseur
 </h1>
 
 <h3>
-<span style="color:turquoise">Programmer</span>, 
-<span style="color:turquoise">Cybersecurity Expert</span>, 
-<span style="color:turquoise">Tech Nerd</span>
+Cybersecurity Projects and Work Examples
 </h3>
 
 <!--
