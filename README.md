@@ -14,6 +14,7 @@ The following are my Completed Courses and Schooling Credits:
 <h4>
 - I have received the following certificates on Boot.Dev for courses that I have completed in-full:
 </h4>
+
  [![Boot.dev Learn Go certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3f7a4ded-e8e3-476a-9d9d-fdb77f410871.jpeg?v=1793729606)](https://www.boot.dev/certificates/3f7a4ded-e8e3-476a-9d9d-fdb77f410871)
 
  
